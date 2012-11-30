@@ -1,0 +1,21 @@
+{ "name" : "textmarketer"
+  , "description" : "TextMarketer.co.uk REST API client"
+  , "keywords" : [ "textmarketer.co.uk", "textmarketer", "rest", "api", "client" ]
+  , "version" : "0.0.1"
+  , "homepage" : "https://github.com/patricklodder/textmarketer"
+  , "author" : "Patrick Lodder <patrick.lodder@intellibiz.org> (https://github.com/patricklodder)"
+  , "repository" : {
+    "type" : "git"
+    , "url" : "git://github.com/patricklodder/textmarketer.git"
+  }
+  , "bugs" : {
+    "url" : "https://github.com/patricklodder/textmarketer/issues"
+  }
+  , "main" : "./index.js"
+  , "licenses" : [ {
+      "type" : "MIT"
+      , "url" : "https://github.com/patricklodder/textmarketer/raw/master/LICENSE"
+    }
+  ]
+}
+
